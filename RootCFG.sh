@@ -4,7 +4,7 @@ apt upgrade -y
 
 apt dist-upgrade -y
 
-apt install htop mc nload -y
+apt install nano htop mc nload -y
 
 clear
 
